@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Samuel",
-    "currentPage": "index.html",
+    "currentPage": "poetry.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -347,26 +347,6 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/red-heart-arrow-600x467.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "solongacall.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "SO LONG A CALL",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "media2": {
-            "image": {
               "src": "@PROJECT_PATH@/assets/images/download-7-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
@@ -382,7 +362,27 @@
               "size": 0
             }
           },
-          "title2": "LOVERS BAY",
+          "title1": "LOVERS BAY",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/red-heart-arrow-600x467.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "solongacall.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "SO LONG A CALL",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media3": {
