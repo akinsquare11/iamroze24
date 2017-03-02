@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Samuel",
-    "currentPage": "poetry.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 61,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -233,12 +233,12 @@
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-1d",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#FFF8E0",
+            "bgColor": "#dddddd",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -246,6 +246,45 @@
           },
           "text": "Follow Us",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/roze_izzy\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/rozedahpoet\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-google\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/10736275567462911726\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/iamroze/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    "
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#41a85f"
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nNo 81, Ado Ibrahim Road,<br>GRA, Lokoja,<br>Kogi State. Nigeria<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: rozeelahpoet@gmail.com<br>Phone: +234 (0) 803 6684 401<br><br>",
+          "text3": "<ul></ul>"
         },
         {
           "alias": "purity/components",
@@ -2041,7 +2080,7 @@
             {
               "text": "Soon it was noon<div>With the moon at her peek,</div><div>Her shiny eyes peeked through the curtains</div><div>To see a love that was certain.</div><div><br></div><div>The stars were bright,</div><div>Like her face it was all right,</div><div>We were right at lovers bay</div><div>Restling like bats at day.</div><div><br></div><div>I watched her nap on my laps</div><div>I could fill flows lapping through my veins,</div><div>I kissed her lips</div><div>And marvelled at the glory of her hips.</div><div><br></div><div>Though we might be a drama couple,</div><div>Each time we broke we coupled,</div><div>We weren’t perfect</div><div>But we were stoned,</div><div>Like bricks we stood still.</div><div><br></div>",
               "authorName": "<b>rozedahpoet</b>",
-              "authorBio": "Post 2/23/2017"
+              "authorBio": "Post 14/12/2016"
             }
           ],
           "_anchor": "testimonials1-1g",
@@ -2227,7 +2266,7 @@
             {
               "text": "Soon it was noon<div>With the moon at her peek,</div><div>Her shiny eyes peeked through the curtains</div><div>To see a love that was certain.</div><div><br></div><div>The stars were bright,</div><div>Like her face it was all right,</div><div>We were right at lovers bay</div><div>Restling like bats at day.</div><div><br></div><div>I watched her nap on my laps</div><div>I could fill flows lapping through my veins,</div><div>I kissed her lips</div><div>And marvelled at the glory of her hips.</div><div><br></div><div>Though we might be a drama couple,</div><div>Each time we broke we coupled,</div><div>We weren’t perfect</div><div>But we were stoned,</div><div>Like bricks we stood still.</div><div><br></div>",
               "authorName": "<b>rozedahpoet</b>",
-              "authorBio": "Post 2/23/2017"
+              "authorBio": "Post 12/12/2016"
             }
           ],
           "_anchor": "testimonials1-1l",
