@@ -116,7 +116,7 @@
             "showButtons": false,
             "showArrow": true
           },
-          "title": "Welcome to IAMROZE...<br>...the home of poetry and jokes",
+          "title": "Welcome to IAMROZE...<br>...the home of poetry and jokes...",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
         },
@@ -554,7 +554,7 @@
             }
           },
           "title1": "Mock",
-          "caption1": "From left to right I watched the trees,From left to right I watched the trees swing,<br>Gently gently they...<br>",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"Mock.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media2": {
             "image": {
@@ -574,7 +574,7 @@
             }
           },
           "title2": "MARATHON",
-          "caption2": "My marathon has long started,<br>My Marathon started many years ago,&nbsp;My race through secession...<br>",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"Marathon.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media3": {
             "image": {
@@ -594,7 +594,7 @@
             }
           },
           "title3": "EQUALITY",
-          "caption3": "We have stood still in the jungle so long,&nbsp;We have danced to the beats of the drums...<br>",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"Equality.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media4": {
             "image": {
@@ -614,7 +614,7 @@
             }
           },
           "title4": "A NEW",
-          "caption4": "Over time things change,<br>Things change as time passes,<br>Tick Tick Tick says the clock,<br>As so time passes as...<br>",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"ANew.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
         }
       ]
@@ -2041,7 +2041,7 @@
             {
               "text": "Soon it was noon<div>With the moon at her peek,</div><div>Her shiny eyes peeked through the curtains</div><div>To see a love that was certain.</div><div><br></div><div>The stars were bright,</div><div>Like her face it was all right,</div><div>We were right at lovers bay</div><div>Restling like bats at day.</div><div><br></div><div>I watched her nap on my laps</div><div>I could fill flows lapping through my veins,</div><div>I kissed her lips</div><div>And marvelled at the glory of her hips.</div><div><br></div><div>Though we might be a drama couple,</div><div>Each time we broke we coupled,</div><div>We weren’t perfect</div><div>But we were stoned,</div><div>Like bricks we stood still.</div><div><br></div>",
               "authorName": "<b>rozedahpoet</b>",
-              "authorBio": "Post 2/23/2017"
+              "authorBio": "Post 14/12/2016"
             },
             {
               "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>",
